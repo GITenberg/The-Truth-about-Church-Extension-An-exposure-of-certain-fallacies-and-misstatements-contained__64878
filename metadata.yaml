@@ -1,5 +1,8 @@
 _repo: The-Truth-about-Church-Extension-An-exposure-of-certain-fallacies-and-misstatements-contained__64878
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64878-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64878#The-Truth-about-Church-Extension-An-exposure-of-certain-fallacies-and-misstatements-contained_
 gutenberg_issued: '2021-03-20'
 gutenberg_type: Text
 identifiers:
